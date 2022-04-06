@@ -117,11 +117,11 @@ def game():
             break         
 
 
-
+# we will use main function to run the game
 def main():
     game()
 
-
+# and here we ran the game
 if __name__ == "__main__":
     main()
 
